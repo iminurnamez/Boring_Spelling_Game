@@ -16,4 +16,6 @@ Collisions:
 
 -2 if either is misspelled
 
-F to toggle fullscreen ESC or Close to exit
+F to toggle fullscreen
+
+ESC or Close to exit
